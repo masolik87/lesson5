@@ -1,0 +1,15 @@
+G:\GB\Seminar\Homework\lesson5\sumelements\bin\Debug\net6.0\sumelements.exe
+G:\GB\Seminar\Homework\lesson5\sumelements\bin\Debug\net6.0\sumelements.deps.json
+G:\GB\Seminar\Homework\lesson5\sumelements\bin\Debug\net6.0\sumelements.runtimeconfig.json
+G:\GB\Seminar\Homework\lesson5\sumelements\bin\Debug\net6.0\sumelements.dll
+G:\GB\Seminar\Homework\lesson5\sumelements\bin\Debug\net6.0\sumelements.pdb
+G:\GB\Seminar\Homework\lesson5\sumelements\obj\Debug\net6.0\sumelements.csproj.AssemblyReference.cache
+G:\GB\Seminar\Homework\lesson5\sumelements\obj\Debug\net6.0\sumelements.GeneratedMSBuildEditorConfig.editorconfig
+G:\GB\Seminar\Homework\lesson5\sumelements\obj\Debug\net6.0\sumelements.AssemblyInfoInputs.cache
+G:\GB\Seminar\Homework\lesson5\sumelements\obj\Debug\net6.0\sumelements.AssemblyInfo.cs
+G:\GB\Seminar\Homework\lesson5\sumelements\obj\Debug\net6.0\sumelements.csproj.CoreCompileInputs.cache
+G:\GB\Seminar\Homework\lesson5\sumelements\obj\Debug\net6.0\sumelements.dll
+G:\GB\Seminar\Homework\lesson5\sumelements\obj\Debug\net6.0\refint\sumelements.dll
+G:\GB\Seminar\Homework\lesson5\sumelements\obj\Debug\net6.0\sumelements.pdb
+G:\GB\Seminar\Homework\lesson5\sumelements\obj\Debug\net6.0\sumelements.genruntimeconfig.cache
+G:\GB\Seminar\Homework\lesson5\sumelements\obj\Debug\net6.0\ref\sumelements.dll
