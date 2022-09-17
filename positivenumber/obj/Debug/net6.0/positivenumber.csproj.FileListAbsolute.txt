@@ -1,0 +1,15 @@
+G:\GB\Seminar\Homework\lesson5\positivenumber\bin\Debug\net6.0\positivenumber.exe
+G:\GB\Seminar\Homework\lesson5\positivenumber\bin\Debug\net6.0\positivenumber.deps.json
+G:\GB\Seminar\Homework\lesson5\positivenumber\bin\Debug\net6.0\positivenumber.runtimeconfig.json
+G:\GB\Seminar\Homework\lesson5\positivenumber\bin\Debug\net6.0\positivenumber.dll
+G:\GB\Seminar\Homework\lesson5\positivenumber\bin\Debug\net6.0\positivenumber.pdb
+G:\GB\Seminar\Homework\lesson5\positivenumber\obj\Debug\net6.0\positivenumber.csproj.AssemblyReference.cache
+G:\GB\Seminar\Homework\lesson5\positivenumber\obj\Debug\net6.0\positivenumber.GeneratedMSBuildEditorConfig.editorconfig
+G:\GB\Seminar\Homework\lesson5\positivenumber\obj\Debug\net6.0\positivenumber.AssemblyInfoInputs.cache
+G:\GB\Seminar\Homework\lesson5\positivenumber\obj\Debug\net6.0\positivenumber.AssemblyInfo.cs
+G:\GB\Seminar\Homework\lesson5\positivenumber\obj\Debug\net6.0\positivenumber.csproj.CoreCompileInputs.cache
+G:\GB\Seminar\Homework\lesson5\positivenumber\obj\Debug\net6.0\positivenumber.dll
+G:\GB\Seminar\Homework\lesson5\positivenumber\obj\Debug\net6.0\refint\positivenumber.dll
+G:\GB\Seminar\Homework\lesson5\positivenumber\obj\Debug\net6.0\positivenumber.pdb
+G:\GB\Seminar\Homework\lesson5\positivenumber\obj\Debug\net6.0\positivenumber.genruntimeconfig.cache
+G:\GB\Seminar\Homework\lesson5\positivenumber\obj\Debug\net6.0\ref\positivenumber.dll
