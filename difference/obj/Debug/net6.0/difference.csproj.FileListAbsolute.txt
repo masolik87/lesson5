@@ -1,0 +1,15 @@
+G:\GB\Seminar\Homework\lesson5\difference\bin\Debug\net6.0\difference.exe
+G:\GB\Seminar\Homework\lesson5\difference\bin\Debug\net6.0\difference.deps.json
+G:\GB\Seminar\Homework\lesson5\difference\bin\Debug\net6.0\difference.runtimeconfig.json
+G:\GB\Seminar\Homework\lesson5\difference\bin\Debug\net6.0\difference.dll
+G:\GB\Seminar\Homework\lesson5\difference\bin\Debug\net6.0\difference.pdb
+G:\GB\Seminar\Homework\lesson5\difference\obj\Debug\net6.0\difference.csproj.AssemblyReference.cache
+G:\GB\Seminar\Homework\lesson5\difference\obj\Debug\net6.0\difference.GeneratedMSBuildEditorConfig.editorconfig
+G:\GB\Seminar\Homework\lesson5\difference\obj\Debug\net6.0\difference.AssemblyInfoInputs.cache
+G:\GB\Seminar\Homework\lesson5\difference\obj\Debug\net6.0\difference.AssemblyInfo.cs
+G:\GB\Seminar\Homework\lesson5\difference\obj\Debug\net6.0\difference.csproj.CoreCompileInputs.cache
+G:\GB\Seminar\Homework\lesson5\difference\obj\Debug\net6.0\difference.dll
+G:\GB\Seminar\Homework\lesson5\difference\obj\Debug\net6.0\refint\difference.dll
+G:\GB\Seminar\Homework\lesson5\difference\obj\Debug\net6.0\difference.pdb
+G:\GB\Seminar\Homework\lesson5\difference\obj\Debug\net6.0\difference.genruntimeconfig.cache
+G:\GB\Seminar\Homework\lesson5\difference\obj\Debug\net6.0\ref\difference.dll
